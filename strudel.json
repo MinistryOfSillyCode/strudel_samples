@@ -1,7 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/MinistryOfSillyCode/strudel_samples/main/",
-  "jet": "07000117.wav",
-  "jet2": "07000119.wav",
+  "jet": ["07000117.wav","07000119.wav"],
   "prop": "07017169.wav",
   "beep": "07040064.wav"
 }
